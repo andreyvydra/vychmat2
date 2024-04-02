@@ -7,6 +7,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+import java.math.BigDecimal;
 import java.net.URL;
 
 public class App extends Application {
